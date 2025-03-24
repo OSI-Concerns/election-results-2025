@@ -6,11 +6,10 @@ undersigned petition the Open Source Initiative (OSI) to release the
 anonymized ballot data for OSI's 2025 Board of Directors election —
 including votes for all candidates who received any nomination.
 
-The basis for our petition is that three candidates' votes were not counted
-for failing to follow a qualification procedure that historically was only
-required of election winners, not mere candidates. Furthmore, OSI imposed
-this procedure without advance notice after completed; candidates were given
-a mere 47 hours to comply.
+The basis for our petition is that three candidates’ votes were not counted.
+OSI states these candidates failed to follow a qualification procedure.
+Multiple candidates have confirmed that they were informed of this
+qualification procedure only after voting closed.
 
 OSI's announcement at
 https://opensource.org/blog/announcing-the-new-directors-of-osi-board
