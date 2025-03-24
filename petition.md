@@ -28,12 +28,11 @@ should candidly report the full voting results (by release of the anonymized
 ballot data) and honestly and directly, rather than obliquely, describe the
 differences between the election results and the actual Board appointments.
 
-This is an open petition that was original prepared by the original signers below.
-
-We then posted this on Codeberg, and new signers can submit their signature
-with a merge request. We encourage anyone who agrees with the petition to do
-so. If you have a relationship with OSI (e.g., a Member, Former Director,
-etc.), pease indicate your relationship to OSI in your signature.
+This is an open petition prepared by the original signers below.  The signed
+document is available on Codeberg here (add the link), and supporters are
+encouraged to submit their signature through a merge request. If you have a
+relationship with OSI (e.g., a Member, Former Director, etc.), pease indicate
+your relationship to OSI in your signature.
 
 We ask that OSI Affiliates have their Affiliate Representative sign on behalf
 of the organization; they and other Affiliate employees/volunteers can of
