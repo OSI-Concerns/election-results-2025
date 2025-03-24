@@ -11,12 +11,11 @@ OSI states these candidates failed to follow a qualification procedure.
 Multiple candidates have confirmed that they were informed of this
 qualification procedure only after voting closed.
 
-OSI's announcement at
-https://opensource.org/blog/announcing-the-new-directors-of-osi-board
+[OSI's announcement](https://opensource.org/blog/announcing-the-new-directors-of-osi-board)
 indicates these three candidates were removed from those already-cast ballots
-before vote tabulation. (Please also see
-https://lwn.net/SubscriberLink/1014603/ac0cfc0a74755501/ for relevant press
-coverage of this election.)
+before vote tabulation. (Please also
+[see *Linux Weekly News*](https://lwn.net/SubscriberLink/1014603/ac0cfc0a74755501/) for
+relevant press coverage of this election.)
 
 We are grateful for OSI's advisory election process. While only advisory,
 the process includes community and builds trust with Affiliates and
