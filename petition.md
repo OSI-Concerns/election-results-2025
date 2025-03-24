@@ -1,3 +1,14 @@
+DRAFT ONLY: DO NOT SIGN THIS YET
+================================
+
+This petition is in **draft form only**.  Please do not sign this yet.  As you can
+see, there are already pending merge requests for changes, big and small, to this
+document.  We started drafting this as a private group of small individuals, but
+we decided to move to a transparent method ourselves and it's here, but it's
+not ready to sign (even though there are actually pending sign merge request, I'll
+get back to those folks when we're ready).
+
+
 Petition to Open Source Initiative To Publish 2025 Board of Directors Election Results
 ======================================================================================
 
