@@ -4,10 +4,10 @@ Petition to Open Source Initiative and To Publish 2025 Board of Directors Electi
 We the undersigned petition the Open Source Initiative (OSI) to release
 the complete and accurate results of the 2025 Board of Directors
 Individual and Affiliate elections.
-
 We call for this transparency out of concern that OSI's mishandling of its recent Board elections
 has damaged the organization's credibility and reputation.
-OSI's relies *entirely* on community deference and respect in order to retain its role
+
+OSI relies *entirely* on community deference and respect in order to retain its role
 as an authority that promotes Open Source values and the consistent use of the term "Open Source".
 So, it is of utmost importance that OSI repair its integrity with its members and the wider OSS community.
 
@@ -23,7 +23,7 @@ On March 21st, OSI posted what it claimed to be the "Complete election results",
 but they omitted 3 of the candidates who were on the ballots and who received votes.
 
 The election was run with the proprietary OpaVote service.
-In that process, OpaVote emails each voter a unique url leading to a formal ballot:
+In that process, OpaVote emails each voter a unique url leading to a formal ballots like this:
 
 - [an unmarked ballot](https://codeberg.org/OSI-Concerns/election-results-2025/src/branch/main/osi-2025-unmarked-ballot-example.png)
 - [a filled in ballot](https://codeberg.org/OSI-Concerns/election-results-2025/src/branch/main/osi-2025-marked-ballot-example.png)
@@ -43,14 +43,14 @@ signing of the board agreement would take place only after elections were comple
 
 Even ignoring the question of candidate qualification, any normal election would have the results published transparently
 even if some candidates drop out later or die or are disqualified for any other reason.
-For elections to be trustworthy, the rules cannot change mid-election, and the voting must be tabulated and reported
-accurately. A winning candidate who refuses to take an oath-of-office is a separate issue from the process of voting and tallying election results.
+For elections to be trustworthy, the rules cannot change mid-election, and the voting must be tabulated and reported accurately.
+A winning candidate who refuses to take an oath-of-office is a separate issue from the process of voting and tallying election results.
 
 In general, any tampering with elections (and even with informal polls, for that matter!) erodes community trust.
 By adding requirements *during* the election process and altering votes without publishing the original totals,
 OSI has damaged its credibility with the membership and wider community.
 
-Further distrust comes from suspicions about the motivation for the tampering.
+Further distrust comes from suspicions about the *motivations* for the tampering.
 The three candidates removed from the vote tally were Richard Fontana (incidentally, a former OSI director),
 Bradley Kuhn, and Bentley Hensel.
 Richard and Bradley ran a specific "reform" campaign in opposition to some decisions made by the current OSI Board.
@@ -59,7 +59,7 @@ They also expressed publicly a particular disagreement with one of the clauses i
 It is easy to imagine that the current OSI Board learned of these board-agreement concerns and decided that
 pressuring the candidates to sign the agreement early
 (and via proprietary DocuSign software that these candidates are known to object to)
-would help them justify disqualifying them from the elections, even though voting had already finished.
+would help them justify removing them from the elections, even though voting had already finished.
 It also provides some plausible deniability for OSI to have also removed Bentley for having missed
 the very-short deadline they set for this added last-minute requirement.
 
