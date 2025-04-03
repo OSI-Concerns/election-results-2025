@@ -30,7 +30,7 @@ preferences to fill in the gaps. We don't know if this is a very
 unfortunate mistake with some good intentions, but we have seen multiple
 OSI representatives suggesting there is nothing wrong.
 
-OSI has consistently stated[1] that the online elections are being run
+OSI has consistently stated that the online elections are being run
 with Scottish STV (Single Transferable Vote) rules, and included a link
 to [OpaVote, detailing
 STV](https://opavote.com/methods/single-transferable-vote#scottish-stv)
@@ -41,16 +41,15 @@ as an "election manager", and they get access to self-service forms
 which facilitate running an online election. For each of the 2
 elections, OSI logged into opavote.com as an election manager, uploaded
 a list of voter's email addresses, a list of candidates, selected
-Scottish STV rules, and clicked a button open the polls.  OpaVote then
+Scottish STV rules, and clicked a button open the polls.
+
+OpaVote then
 emailed each of the voters a unique ballot url on opavote.com. Here is
 [a screenshot of an empty ballot](/osi-2025-unmarked-ballot-example.png)
 of the OSI 2025 Individual election, and [a filled in
 one](/osi-2025-marked-ballot-example.png). The only way to fill in the
 ballot is by specifying a 1st preference and then optionally 2nd, and
-then optionally a 3rd, etc. A sample ballot form from the OSI 2025
-Individual election [is
-here](https://web.archive.org/web/20250327040900/https://opavote.com/en/vote/5182543794536448?p=1),
-but beware: it requires running a nonfree javascript program.  After the
+then optionally a 3rd, etc. After the
 polls close, OpaVote provides the election manager an option to publish
 the voting results to the voters. OSI did not use that option. Instead,
 it seems they downloaded the ballot data, altered the ballots, and used
