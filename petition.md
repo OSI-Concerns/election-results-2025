@@ -43,19 +43,20 @@ elections, OSI logged into opavote.com as an election manager, uploaded
 a list of voter's email addresses, a list of candidates, selected
 Scottish STV rules, and clicked a button open the polls.
 
-OpaVote then
-emailed each of the voters a unique ballot url on opavote.com. Here is
-[a screenshot of an empty ballot](/osi-2025-unmarked-ballot-example.png)
+OpaVote then emailed each of the voters a unique ballot url on
+opavote.com. Here is [a screenshot of an unmarked
+ballot](https://codeberg.org/OSI-Concerns/election-results-2025/src/branch/main/osi-2025-unmarked-ballot-example.png)
 of the OSI 2025 Individual election, and [a filled in
-one](/osi-2025-marked-ballot-example.png). The only way to fill in the
-ballot is by specifying a 1st preference and then optionally 2nd, and
-then optionally a 3rd, etc. After the
-polls close, OpaVote provides the election manager an option to publish
-the voting results to the voters. OSI did not use that option. Instead,
-it seems they downloaded the ballot data, altered the ballots, and used
-this to publish altered election results. In OSI's results announcement,
-it is stated that [that 3 candidates were not included in the final
-tally because of a failure to sign an agreement with
+one](https://codeberg.org/OSI-Concerns/election-results-2025/src/branch/main/osi-2025-marked-ballot-example.png). The
+only way to fill in the ballot is by specifying a 1st preference and
+then optionally a 2nd preference, and then optionally a 3rd, etc. After
+the polls close, OpaVote provides the election manager an option to
+publish the voting results to the voters. OSI did not use that
+option. Instead, it seems they downloaded the ballot data, altered the
+ballots, and used this to publish altered election results. In OSI's
+results announcement, it is stated that [that 3 candidates were not
+included in the final tally because of a failure to sign an agreement
+with
 OSI](https://opensource.org/blog/announcing-the-new-directors-of-osi-board). They
 did not state which candidates had been removed from which
 elections. What we quickly figured out is that in the individual
