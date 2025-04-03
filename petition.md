@@ -1,4 +1,3 @@
-
 Petition to Open Source Initiative and To Publish 2025 Board of Directors Election Results
 ================================================================
 
@@ -6,136 +5,71 @@ We the undersigned petition the Open Source Initiative (OSI) to release
 the complete and accurate results of the 2025 Board of Directors
 Individual and Affiliate elections.
 
-In 2012, the OSI began running annual community elections, and for many
-years, those elections have determined the majority of its board
-of directors. In 2025, OSI published [overall election
-information](https://web.archive.org/web/20250319054143/https://opensource.org/about/board-of-directors/elections)
-and eventually announced that [OSI Affiliate organizations would
-nominate and elect two
-candidates](https://web.archive.org/web/20250323020823/https://opensource.org/about/board-of-directors/elections/affiliate),
-and [OSI Individual members would nominate and elect one
-candidate](https://web.archive.org/web/20250126161015/https://opensource.org/about/board-of-directors/elections/individual). Community
-elections have always been advisory to the board, but OSI has
-consistently written about board members as elected by Affiliates
-members or Individual members, including calling them Individual
-directors and Affiliate directors.
+We call for this transparency out of concern that OSI's mishandling of its recent Board elections
+has damaged the organization's credibility and reputation.
+OSI's relies *entirely* on community deference and respect in order to retain its role
+as an authority that promotes Open Source values and the consistent use of the term "Open Source".
+So, it is of utmost importance that OSI repair its integrity with its members and the wider OSS community.
 
+OSI elections have been a key part of its governance since 2012,
+when it shifted toward running as a membership-based organization.
+Although only advisory in strict legal terms,
+these community elections serve OSI's community focus and standing.
+In general, these elections have been carefully managed according to best-practices for public elections,
+and the results have been honored every year.
 
-In 2025, the polls for both elections closed on March 17th. On March
-21st, OSI posted what it claimed to be the "Complete election
-results"[4], but unfortunately, they plainly are not complete and they
-misrepresent the votes that were cast. Essentially, OSI altered the
-ballots to erase 3 of the candidates and shifted voters ranked
-preferences to fill in the gaps. We don't know if this is a very
-unfortunate mistake with some good intentions, but we have seen multiple
-OSI representatives suggesting there is nothing wrong.
+In the 2025 OSI elections, polling closed on March 17th.
+On March 21st, OSI posted what it claimed to be the "Complete election results",
+but they omitted 3 of the candidates who were on the ballots and who received votes.
 
-OSI has consistently stated that the online elections are being run
-with Scottish STV (Single Transferable Vote) rules, and included a link
-to [OpaVote, detailing
-STV](https://opavote.com/methods/single-transferable-vote#scottish-stv)
-. OpaVote is a service which facilitates online elections and which OSI
-used for the collection of votes. Understanding how OpaVote was used
-helps understand exactly what went wrong. On OpaVote, anyone can sign up
-as an "election manager", and they get access to self-service forms
-which facilitate running an online election. For each of the 2
-elections, OSI logged into opavote.com as an election manager, uploaded
-a list of voter's email addresses, a list of candidates, selected
-Scottish STV rules, and clicked a button open the polls.
+The election was run with the proprietary OpaVote service.
+In that process, OpaVote emails each voter a unique url leading to a formal ballot:
 
-OpaVote then emailed each of the voters a unique ballot url on
-opavote.com. Here is [a screenshot of an unmarked
-ballot](https://codeberg.org/OSI-Concerns/election-results-2025/src/branch/main/osi-2025-unmarked-ballot-example.png)
-of the OSI 2025 Individual election, and [a filled in
-one](https://codeberg.org/OSI-Concerns/election-results-2025/src/branch/main/osi-2025-marked-ballot-example.png). The
-only way to fill in the ballot is by specifying a 1st preference and
-then optionally a 2nd preference, and then optionally a 3rd, etc. After
-the polls close, OpaVote provides the election manager an option to
-publish the voting results to the voters. OSI did not use that
-option. Instead, it seems they downloaded the ballot data, altered the
-ballots, and used this to publish altered election results. In OSI's
-results announcement, it is stated that [that 3 candidates were not
-included in the final tally because of a failure to sign an agreement
-with
-OSI](https://opensource.org/blog/announcing-the-new-directors-of-osi-board). They
-did not state which candidates had been removed from which
-elections. What we quickly figured out is that in the individual
-elections, Richard Fontana and Bentley Hensel were erased from final
-ballots and apparently replaced with lower preference votes or if no
-lower preference had been specified, then no preference at all. For the
-Affiliates election, the same procedure was used to erase Bradley Kuhn
-from the results.
+- [an unmarked ballot](https://codeberg.org/OSI-Concerns/election-results-2025/src/branch/main/osi-2025-unmarked-ballot-example.png)
+- [a filled in ballot](https://codeberg.org/OSI-Concerns/election-results-2025/src/branch/main/osi-2025-marked-ballot-example.png)
 
-We content what hopefully seems obvious: the correct and true election
-results include the actual preferences that voters marked on their
-ballots. There are several points of evidence beyond common sense to
-show this. The link that OSI [uses to describe STV](https://opavote.com/methods/single-transferable-vote#scottish-stv)
-contains a set of rules, and the rules
-are clear that altering ballots is not an allowed part of the
-procedure. This is nothing unique to STV, this is widely accepted
-practice in elections.  OpaVote states that it follows the relevant
-parts of the actual Scottish legislation
-https://www.legislation.gov.uk/ssi/2007/42/made/data.xht?view=snippet&wrap=true
-. That legislation is quite clear that there is no case in which a
-voter's list of preferences may be altered, and the full election
-results which must be announced are:
+OpaVote then provides the election manager an option to publish the voting results to the voters.
+Instead of using that option. it seems OSI downloaded the ballot data,
+altered the data to remove 3 candidates, and then published the altered election results.
+We can infer this because OpaVote does not offer the option to change vote totals before tallying
+(and presumably doing so would compromise trust in the integrity of their service).
 
-> give public notice of–
->
-> (i)the name of the candidates elected;
->
-> (ii)the number of first and subsequent preference votes for each candidate;
->
-> (iii)the numbers of ballot papers transferred and their transfer values at each stage of the count;
->
-> (iv)the number of votes credited to each candidate at each stage of the count;
->
-> (v)the number of non transferable ballot papers at each stage of the count; and
->
-> (vi)the number of rejected ballot papers under each head shown in the statement of rejected ballot papers.
+OSI's [stated reason for the intervention](https://opensource.org/blog/announcing-the-new-directors-of-osi-board)
+is that 3 candidates (who they did not acknowledge by name) did not satisfy a requirement to sign the OSI board agreement.
+But **the requirement that *candidates* sign the agreement was itself *added* in the *middle* of the 2025
+election — after voting had begun and before results were announced.**
+In the past (and as in any other comparable election for any other organization),
+signing of the board agreement would take place only after elections were complete and only with the elected directors.
 
-Furthermore, we contacted OpaVote to find out their opinion of this
-election. In an email, they stated "I understand your point; you want
-the full results of the election to be published in the interest of
-transparency." OpaVote cannot force OSI to publish the full results, but
-they can see, just as we do, that contrary to [OSI's official
-statement](https://opensource.org/blog/announcing-the-new-directors-of-osi-board),
-the "complete election results" have not been published.
+Even ignoring the question of candidate qualification, any normal election would have the results published transparently
+even if some candidates drop out later or die or are disqualified for any other reason.
+For elections to be trustworthy, the rules cannot change mid-election, and the voting must be tabulated and reported
+accurately. A winning candidate who refuses to take an oath-of-office is a separate issue from the process of voting and tallying election results.
 
-According to the Scottish STV rules, even in the event of a candidate's
-death, if the full election results have already been determined, they
-must be announced. And if a candidate's death is known before an
-election's results are determined, the election is immediately canceled,
-the ballots are never counted, and the election is rerun. The three
-candidates have told us that they were disqualified after the polls had
-closed. At that point, the full results had already become available to
-OSI. Whatever disagreement OSI has or had with the three candidates, the
-voters have no part in it. We only ask OSI to live up to a simple and
-basic obligation of any election.
+In general, any tampering with elections (and even with informal polls, for that matter!) erodes community trust.
+By adding requirements *during* the election process and altering votes without publishing the original totals,
+OSI has damaged its credibility with the membership and wider community.
 
-Some of us have heard from OSI what sounded like the theory that if OSI
-had run an election without these 3 candidates, then voters would have
-voted with the same preferences as the altered ballots, so the voters
-haven't lost anything. We reject that idea. First of all, we've already
-heard that additional candidates would have run if one of the existing
-candidates had not. Secondly, there are several common and legitimate
-voting strategies which do not conform to that assumption, and the
-voters do not deserve to be punished for using them. The voters trusted
-OSI to publish their true votes and have every right to feel that trust
-has been broken.
-
-We also know that if the OSI board were to override the will of the
-voters by invoking the advisory nature of the elections, that would be
-legitimate. But at this point, we cannot agree with OSI's claim that any
-candidate has been elected by the Individual or Affiliate voters until
-we know the true election results.
+Further distrust comes from suspicions about the motivation for the tampering.
+The three candidates removed from the vote tally were Richard Fontana (incidentally, a former OSI director),
+Bradley Kuhn, and Bentley Hensel.
+Richard and Bradley ran a specific "reform" campaign in opposition to some decisions made by the current OSI Board.
+They also expressed publicly a particular disagreement with one of the clauses in the OSI board agreement
+(which they interpret an agreement never to publicly express dissent with any board decisions).
+It is easy to imagine that the current OSI Board learned of these board-agreement concerns and decided that
+pressuring the candidates to sign the agreement early
+(and via proprietary DocuSign software that these candidates are known to object to)
+would help them justify disqualifying them from the elections, even though voting had already finished.
+It also provides some plausible deniability for OSI to have also removed Bentley for having missed
+the very-short deadline they set for this added last-minute requirement.
 
 An [article at *LWN*](https://lwn.net/SubscriberLink/1014603/ac0cfc0a74755501/)
-covers many other details about related contention around this election.
+covers many other details about related contentions around this election.
 
-Many of us believe there are OSI board members and perhaps election
-candidates who will hear our petition and realize that somehow, these
-two elections have gotten off-track and steer OSI to do the right thing.
+To restore its credibility and reputation, we call on OSI to immediately release the unaltered
+election totals, to acknowledge the harms to the community that this situation has caused,
+and to credibly recommit to working with the community on all the steps necessary to repair lost trust.
+
 
 
 Petition detail
