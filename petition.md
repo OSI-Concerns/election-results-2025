@@ -17,53 +17,66 @@ Although only advisory in strict legal terms, these elections serve OSI's commun
 For all the past years, OSI has committed to running elections according to best-practices,
 and they have honored the election results.
 
-In the 2025 OSI elections, polling closed on March 17th.
-On March 21st, OSI posted what it claimed to be the "complete election results",
-but they omitted 3 of the candidates who were on the ballots and who received votes.
-
-The election was run with the proprietary OpaVote service.
+The 2025 election was run with the proprietary OpaVote service.
 In that process, OpaVote emails each voter a unique url leading to a formal ballot like this:
 
 - [an unmarked ballot](https://codeberg.org/OSI-Concerns/election-results-2025/src/branch/main/osi-2025-unmarked-ballot-example.png)
 - [a filled in ballot](https://codeberg.org/OSI-Concerns/election-results-2025/src/branch/main/osi-2025-marked-ballot-example.png)
 
-OpaVote then provides the election manager an option to publish the voting results to the voters.
-Instead of using that option, it seems OSI downloaded the ballot data,
-altered the data to remove 3 candidates, and then published the altered election results.
-We can infer this because OpaVote does not offer the option to change vote totals before tallying
+OpaVote then provides the election manager a function to publish the results to the voters.
+But instead of using that option, it seems OSI downloaded the ballot data,
+and then altered the data to remove 3 candidates and all the votes they received.
+OSI then published the altered election results.
+We can infer this process because OpaVote offers no option to change vote totals before tallying
 (and presumably doing so would compromise trust in the integrity of their service).
 
 OSI's [stated reason for the intervention](https://opensource.org/blog/announcing-the-new-directors-of-osi-board)
-is that 3 candidates (who they did not acknowledge by name) did not satisfy a requirement to sign the OSI board agreement.
-But **the requirement that all *candidates* sign the agreement was itself *added* in the *middle* of the 2025
-election — after voting had begun and before results were announced.**
-In the past (and as in any other comparable election for any other organization),
-signing of the board agreement would take place only after elections were complete and only with the elected directors.
+is that 3 candidates (who they did not acknowledge by name) failed to satisfy a requirement to sign the OSI board agreement.
+But **it was only right *after* voting ended that they added this *new* requirement for all *candidates* to sign the agreement**.
+Then, after a delay of several days, OSI announced what they nevertheless called "complete election results".
 
-Even ignoring the question of candidate qualification, any normal election would have the results published transparently
-even if some candidates drop out later or die or are disqualified for any other reason.
-For any election to be trustworthy, the rules cannot change mid-election, and the voting must be tabulated and reported accurately.
-A winning candidate who refuses to take an oath-of-office is an independent issue from the process of voting and tallying election results.
+Of course, in the past, as with any other comparable election for any other organization,
+signing of the board agreement took place only with the elected directors after the election.
 
-In general, any tampering with elections (and even with informal polls, for that matter!) erodes community trust.
-By adding requirements *during* the election process and altering votes without publishing the original totals,
+In any normal election, results are published transparently —
+regardless of whether some candidates drop out or die or are disqualified for any reason.
+Once a candidate has been placed on the ballot,
+the only way to respect the voting electorate is to count and report the votes as marked.
+A trustworthy election cannot have rules changed during the election process,
+and the voting must be tabulated and reported accurately.
+
+Any tampering with elections erodes community trust.
+Note that this concern is not a legal one.
+Even tampering with informal polls on a forum is the sort of behavior that can severely harm an organization's reputation.
+By adding requirements *during* an election process and altering votes without publishing the original totals,
 OSI has damaged its credibility with the membership and wider community.
 
-Further distrust comes from suspicions about the *motivations* for the tampering.
+Now because OSI used single-transferable-vote (STV) with its multi-round elimination tabulation process,
+removing candidates can give a different result.
+So, it is conceivable (though highly unlikely) that even if the eliminated candidates did not win,
+their presence in the tabulation could alter the outcome.
+Even still, this does not justify refusing to publish the original election results.
+OSI can simply publish the original results and also publish the re-tabulated results.
+Why has OSI so far not published the unaltered results?
+
+Reasonable suspicion asks about potential *motivations* for the election tampering.
 The three candidates removed from the vote tally were Richard Fontana (incidentally, a former OSI director),
 Bradley Kuhn, and Bentley Hensel.
 Richard and Bradley ran an explicit "reform" campaign in opposition to some decisions made by the current OSI Board.
 They also expressed public discomfort with one of the clauses in the OSI board agreement
 (a clause they interpret as barring directors from publicly expressing any opinion that differs from that of the board majority).
-It is easy to imagine that the current OSI Board learned of their board-agreement concerns and decided that
-pressuring the candidates to sign the agreement early
-(and via proprietary DocuSign software that these candidates are known to object to)
-would provide a justification for removing them from the elections, even though voting had already finished.
-And it provides some plausible deniability for OSI to have incidentally removed Bentley over his missing of
+It is easy to imagine that the current OSI Board learned of the candidates' board-agreement concerns and decided that
+pressuring the candidates to sign the agreement early would provide a justification for removing them from the elections,
+even though voting had already finished.
+And it provides some extra plausible deniability for OSI to have incidentally removed Bentley over his missing of
 the very-short deadline they set for the newly-added last-minute requirement.
 
 An [article at *LWN*](https://lwn.net/SubscriberLink/1014603/ac0cfc0a74755501/)
 covers many other details about related contentions around this election.
+
+With this petition, we do not endorse any particular candidates or policy positions.
+We are community members who care about OSI's mission and its standing in the world.
+We wish to see OSI thrive in good standing.
 
 To restore its credibility and reputation, we call on OSI to immediately release the unaltered
 election totals, to acknowledge the harms to the community that this situation has caused,
