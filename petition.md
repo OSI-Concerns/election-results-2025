@@ -54,7 +54,7 @@ The three candidates removed from the vote tally were Richard Fontana (incidenta
 Bradley Kuhn, and Bentley Hensel.
 Richard and Bradley ran an explicit "reform" campaign in opposition to some decisions made by the current OSI Board.
 They also expressed public discomfort with one of the clauses in the OSI board agreement
-(a clause they interpret asban agreement never to publicly express any dissent with any board decisions).
+(a clause they interpret as barring directors from publicly expressing any opinion that differs from that of the board majority).
 It is easy to imagine that the current OSI Board learned of their board-agreement concerns and decided that
 pressuring the candidates to sign the agreement early
 (and via proprietary DocuSign software that these candidates are known to object to)
