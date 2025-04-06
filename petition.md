@@ -52,10 +52,6 @@ requirement that all candidates sign the agreement was added at the end
 of the 2025 election — *after* all voting had concluded, but *before*
 results were announced.**
 
-In the past, as with comparable elections for other organizations,
-signing of the board agreement took place only with the elected
-directors after the election.
-
 In any normal election, results are published transparently—regardless
 of whether some candidates withdraw, die, or are disqualified for any
 reason. Once a candidate has been placed on the ballot, the only way to
@@ -75,7 +71,7 @@ former OSI director), Bradley Kuhn, and Bentley Hensel. Kuhn and
 Fontana's campaign platform sought various changes to OSI, including
 revising a provision of the OSI board member agreement that requires
 members to "support publicly all Board decisions," due to concerns that
-it is overly broad. The existing process for joining the OSI board would
+it is overly broad. In the past, as with comparable elections for other organizations, joining the OSI board would
 have included the possibility to discuss the board member agreement with
 the OSI board before signing. The newly announced requirement to sign
 within a few days after voting closed eliminated that possibility. An
