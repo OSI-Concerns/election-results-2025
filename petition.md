@@ -95,17 +95,14 @@ with the community on all steps necessary to repair lost trust.
 
 ## Petition Details
 
-This is an open petition. The signed document is available on Codeberg
-[here](https://codeberg.org/OSI-Concerns/election-results-2025), and
-supporters are encouraged to submit their signature through a merge
-request. If you have a relationship with OSI (e.g., as a Member, Former
-Director, etc.), please indicate your relationship to OSI in your
-signature.
+**The petition is open. Signatures are welcome.**
 
-We ask that OSI Affiliates have their Affiliate Representative sign on
-behalf of the organization; they and other Affiliate
-employees/volunteers can of course sign separately on their own behalf
-as well.
+- **How to sign**: Submit your signature via a merge request on [Codeberg](https://codeberg.org/OSI-Concerns/election-results-2025)
+- **When signing, please**:
+  - Indicate your relationship to OSI if applicable (Member, Former Director, etc.)
+- **For OSI affiliates**:
+  - Affiliate Representatives should sign on behalf of their organization
+  - Employees/volunteers may also sign separately in their individual capacity
 
 Respectfully,
 
