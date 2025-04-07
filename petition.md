@@ -7,91 +7,102 @@ decided to move to a transparent method ourselves and it's here, but
 it's not ready to sign (even though there are actually pending sign
 merge request, we will get back to those folks when we're ready).
 
-## Petition to Open Source Initiative to Publish 2025 Board of Directors Election Results
+Please propose edits to the following document. My primary concern is to see it formatted (summary / bullet lists / bold-thesis-sentences… all those things that make it
+easier to skim and to process, that remove the wall-of-text feeling).
 
-We, the undersigned, petition the Open Source Initiative (OSI) to release
-the complete and accurate results of its 2025 Board of Directors
-Individual and Affiliate elections. We call for this transparency out
-of concern that OSI's mishandling of its recent elections has damaged
-the organization's credibility and reputation.
+# Petition to the Open Source Initiative: Publish the Full 2025 Election Results
 
-OSI relies *entirely* on community deference and respect in order to
-retain its role as an authority that promotes Open Source and the
-consistent use of the term "Open Source".  So, it is of utmost
-importance that OSI repair its integrity with its members and the wider
-community.
+**We, the undersigned, petition the Open Source Initiative
+(OSI) to release the complete, unaltered results of its 2025 Board of
+Directors elections**. We believe OSI's mishandling of the election,
+specifically altering the rules and results after voting concluded, has damaged
+its credibility and requires immediate transparency.
 
-OSI elections have been a key component of its governance since 2012,
-when it shifted toward having a board primarily elected by individual
-and affiliate members. Although only advisory in strict legal terms,
-these elections are vital to OSI's community focus and standing. For all
-previous years, OSI has committed to running elections according to best
-practices and has honored the election results.
+**OSI relies *entirely* on community deference and respect**
+for its authority in promoting Open Source and the
+consistent use of the term "Open Source."
 
-The 2025 election was conducted using the OpaVote service. In this
-process, OpaVote emails each voter a unique URL leading to a formal
-ballot that runs proprietary JavaScript and appears as follows:
+- Since 2012, OSI has relied on elections by individual and affiliate
+  members to draw in community and build a capable board.
+- Though advisory in strict legal terms, elections have been vital to
+  OSI's community focus and standing.
+- Historically, OSI has worked toward following best practices and honored election results—until now.
 
-- [an unmarked ballot](https://codeberg.org/OSI-Concerns/election-results-2025/src/branch/main/osi-2025-unmarked-ballot-example.png)
-- [a filled in ballot](https://codeberg.org/OSI-Concerns/election-results-2025/src/branch/main/osi-2025-marked-ballot-example.png)
+## What Went Wrong
 
-OpaVote provides a function to publish the
-results to voters over email. Instead, OSI
-downloaded the ballot data and then altered it to remove three
-candidates and all votes they received. OSI subsequently published these
-altered election results. These results do not represent a legitimate
-election between the remaining candidates. For many reasons, an
-actual election between them would likely have produced notably
-different vote counts.
+**In 2025, OSI altered the election results by removing three candidates and all votes cast for them.**
+The elections were conducted using the OpaVote service, which emails each
+voter a unique ballot link. Examples:
 
-OSI's [stated reason for the
-intervention](https://opensource.org/blog/announcing-the-new-directors-of-osi-board)
-is that three candidates (whom they did not acknowledge by name) failed
-to satisfy a requirement to sign the OSI board agreement. However, **the
-requirement that all candidates sign the agreement was added at the end
-of the 2025 election — *after* all voting had concluded, but *before*
-results were announced.**
+- [Unmarked ballot](https://codeberg.org/OSI-Concerns/election-results-2025/src/branch/main/osi-2025-unmarked-ballot-example.png)
+- [Filled-in ballot](https://codeberg.org/OSI-Concerns/election-results-2025/src/branch/main/osi-2025-marked-ballot-example.png)
 
-In any normal election, results are published transparently—regardless
-of whether some candidates withdraw, die, or are disqualified for any
+OpaVote allows results to be published directly
+to participants. Instead of using this built-in transparency feature,
+OSI downloaded the ballot data, removed three candidates, altered voting
+preference numbers for remaining candidates, and [published the altered
+voting results.]((https://opensource.org/blog/announcing-the-new-directors-of-osi-board))
+
+**OSI justified its intervention by citing a new requirement: that candidates sign a board agreement.**
+However, this requirement was introduced *after* voting had concluded
+but *before* the results were announced. The three excluded
+candidates—Richard Fontana (a former OSI director), Bradley Kuhn, and
+Bentley Hensel—were not named in OSI’s announcement, but their removal
+was evident from the published data.
+
+Fontana and Kuhn's platform aimed for significant changes to OSI. In a
+seemingly smaller change, it sought to revise a clause in the board
+agreement requiring directors “support publicly all Board decisions,”
+which they viewed as overly broad. In previous years, there was a
+possibility for candidates to discuss such agreements with the board
+after being elected. In 2025, that opportunity was eliminated by the
+sudden imposition of a post-voting deadline. Hensel, by contrast,
+appears to have simply missed the short window to respond.
+
+ [*LWN* OSI election
+coverage](https://lwn.net/SubscriberLink/1014603/ac0cfc0a74755501/)
+noted that "A cynical person might conclude that the last-minute
+requirement to sign the agreement was to disqualify one or both because
+they would have won otherwise; and that the OSI leadership was unwilling
+to have even a minority number of board members who might seek to steer
+the ship in a different direction."
+
+We do not endorse any particular candidates or policy positions, but we
+acknowledge these serious concerns.
+
+## Why This Matters
+
+**Changing election rules mid-process and altering vote counts undermines the integrity of any election.**
+Results must be published transparently—regardless
+of whether a candidate withdraws, dies, or is disqualified for any
 reason. Once a candidate has been placed on the ballot, the only way to
 respect the voting electorate is to count and report the votes as
 marked. A trustworthy election cannot have rules changed during the
-election process, and the voting must be tabulated and reported
-accurately.
+election process.
 
-Any tampering with elections erodes community trust. Note that this
-concern is not a legal one. Even tampering with informal polls on a
-forum can severely harm an organization's reputation. **By adding
-requirements *during* an election process and altering votes, OSI has
-damaged its credibility** with the membership and wider community.
+**By adding requirements *during* an election process and altering
+votes, OSI has damaged its credibility.** Any tampering with elections
+erodes community trust. Note that this concern is not a legal one. Even
+tampering with informal polls on a forum can severely harm an
+organization's reputation.
 
-The three candidates removed from the vote tally were Richard Fontana (a
-former OSI director), Bradley Kuhn, and Bentley Hensel. Kuhn and
-Fontana's campaign platform sought various changes to OSI, including
-revising a provision of the OSI board member agreement that requires
-members to "support publicly all Board decisions," due to concerns that
-it is overly broad. In the past, as with comparable elections for other organizations, joining the OSI board would
-have included the possibility to discuss the board member agreement with
-the OSI board before signing. The newly announced requirement to sign
-within a few days after voting closed eliminated that possibility. An
-[article at
-*LWN*](https://lwn.net/SubscriberLink/1014603/ac0cfc0a74755501/) states
-that "a cynical person might conclude that the last-minute requirement
-to sign the agreement was to disqualify one or both" and covers
-additional concerning details about this election. Bentley Hensel, on
-the other hand, was simply busy and didn't respond promptly enough to
-the sudden new requirement.
+**Election results with candidates removed are not valid.**
+Voter behavior is shaped by the full candidate list. Removing candidates after voting distorts the outcome:
 
-With this petition, we do not endorse any particular candidates or
-policy positions. We are community members who care about OSI's mission
-and its standing in the world. We wish to see OSI thrive in good
-standing.
+- Voters often devalue lower preferences based on strategic calculations.
+- Preference-based voting systems support different valid voting strategies.
+- A different candidate pool might have changed who ran or how people voted.
 
-To restore its credibility and reputation, we call on OSI to immediately
-release the unaltered election totals, acknowledge the harm this
-situation has caused to the community, and credibly recommit to working
-with the community on all steps necessary to repair lost trust.
+## Conclusion
+
+We are community members who care about OSI's mission and its standing
+in the world. We wish to see OSI thrive in good standing.
+
+**To restore its credibility, we call on OSI to:**
+
+- Release the unaltered election totals.
+- Acknowledge the harmful impact of this situation.
+- Credibly recommit to working with the community on all steps necessary to repair lost trust.
 
 ## Petition Details
 
