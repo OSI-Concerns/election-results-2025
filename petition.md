@@ -67,15 +67,15 @@ undermines the integrity of any election.
 Results must be published transparently—regardless of whether a
 candidate withdraws, dies, or is disqualified for any reason. Once a
 candidate appears on the ballot, the only way to respect voters is to
-count and report the votes as cast.
+count and report the votes as cast. Presenting altered voting results
+*misrepresents* and disrespects the electorate.
 
-Regardless of the particular concerns about the Board Agreement, for the
-current OSI Board to have eliminated critical candidates while hiding
-the voting results sets up a situation where the community is liable
-to speculate about motives, conflicts of interest, and more.
-
+Regardless of particular concerns about the Board Agreement, for the
+current OSI Board to remove critical candidates while hiding
+the voting results presents a clear conflict of interest and invites
+community speculation about motives and corruption. As
 [*LWN* OSI election coverage](https://lwn.net/SubscriberLink/1014603/ac0cfc0a74755501/)
-noted that "A cynical person might conclude that the last-minute
+noted, "a cynical person might conclude that the last-minute
 requirement to sign the agreement was to disqualify one or both because
 they would have won otherwise; and that the OSI leadership was unwilling
 to have even a minority number of board members who might seek to steer
@@ -93,7 +93,7 @@ concerns brought up in the election.
 **To restore credibility and integrity, we call on OSI to:**
 
 - Publish the full, unaltered election results.
-- Acknowledge the harm caused by this situation.
+- Acknowledge the harm caused by this lack of transparency.
 - Credibly recommit to working with the community on all steps necessary to repair lost trust.
 
 ## Petition Details
