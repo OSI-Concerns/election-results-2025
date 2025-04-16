@@ -41,13 +41,13 @@ the newly-adopted Open Source AI Definition (OSAID).
 They also advocated for revising the
 [OSI Board Member Agreement](https://opensource.org/board/board-member-agreement),
 because they interpreted the clause requiring members to "support publicly all Board
-decisions" as being overlay expansive and stifling. They proposed clarifying or
+decisions" as being overly expansive and stifling. They proposed clarifying or
 limiting the clause to achieve a better balance.
 
 Normally, as in prior years, as with other organizations, and as stated during
 candidate orientation, signing of the Board Agreement would happen only
 with the election winners as part of getting seated as new Directors.
-Fontana and Kuhn stated their intentions to discuss in good faith their concerns
+Fontana and Kuhn stated their good-faith intentions to bring up their concerns
 about the agreement if and when they won the election.
 
 Then, **about one hour after voting ended, OSI emailed a *new* requirement
