@@ -19,8 +19,9 @@ OSI's integrity and reputation.
 for its authority in promoting Open Source and the
 consistent use of the term "Open Source."
 
-- Since 2012, when OSI began operating as a member-driven organization,
-  individual and affiliate members have voted in elections for OSI Directors.
+- In 2012, OSI shifted toward operating as a member-driven organization.
+- Every year since 2013, OSI has held elections where Individual and Affiliate members
+  vote on Directors to represent them.
 - Although OSI is not legally bound to accept the results,
   the elections have been a key part of community and membership engagement,
   and OSI has always worked to follow best practices for public elections.
@@ -31,10 +32,10 @@ consistent use of the term "Open Source."
 **In 2025, OSI excluded all votes for three candidates before publishing results.**
 The announcement of the 
 [altered voting results]((https://opensource.org/blog/announcing-the-new-directors-of-osi-board))
-did not name the removed candidates, but they were Richard Fontana
-(a former OSI director), Bradley Kuhn, and Bentley Hensel.
+did not name the removed candidates, but they were Bentley Hensel,
+Bradley Kuhn, and Richard Fontana (incidentally, a former OSI director).
 
-Notably, Fontana and Kuhn campaigned on a joint
+Notably, Kuhn and Fontana campaigned on a joint
 [OSI Reform platform](https://codeberg.org/OSI-Reform-Platform/platform#readme)
 which included four proposals, the most significant being a call to repeal the
 the newly-adopted Open Source AI Definition (OSAID).
@@ -47,24 +48,25 @@ limiting the clause to achieve a better balance.
 Normally, as in prior years, as with other organizations, and as stated during
 candidate orientation, signing of the Board Agreement would happen only
 with the election winners as part of getting seated as new Directors.
-Fontana and Kuhn stated their good-faith intentions to bring up their concerns
-about the agreement if and when they won the election.
+Kuhn and Fontana say that they brought up their concerns about the Agreement
+during candidate orientation and came away with the understanding that they
+would be able to discuss how to resolve the issue later if they won the election.
 
 Then, **about one hour after voting ended, OSI emailed a *new* requirement
 to the 11 non-incumbent candidates. They gave a 47-hour deadline for all to
 sign the Board Agreement or be disqualified.**
 
-Hensel missed the deadline simply by not checking his email soon enough
-(being quite busy running for US Congress as well).
-Fontana and Kuhn returned signed agreements with their proposed changes.
-OSI removed them all as "ineligible" and published only an altered
+Hensel missed the deadline simply by not checking his email soon enough.
+Having no chance to otherwise resolve or discuss their Agreement concerns,
+Fontana and Kuhn returned signed agreements that included their proposed changes.
+OSI then removed them all as "ineligible" and published only an altered
 vote tally after manually removing all votes for the three eliminated candidates.
 
 ## Ramifications
 
 In general, changing election rules mid-process and altering vote counts
 undermines the integrity of any election.
-Results must be published transparently—regardless of whether a
+Results must be published transparently — regardless of whether a
 candidate withdraws, dies, or is disqualified for any reason. Once a
 candidate appears on the ballot, the only way to respect voters is to
 count and report the votes as cast. Presenting altered voting results
@@ -93,7 +95,6 @@ concerns brought up in the election.
 **To restore credibility and integrity, we call on OSI to:**
 
 - Publish the full, unaltered election results.
-- Acknowledge the harm caused by this lack of transparency.
 - Credibly recommit to working with the community on all steps necessary to repair lost trust.
 
 ## Petition Details
