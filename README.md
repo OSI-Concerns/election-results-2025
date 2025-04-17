@@ -105,4 +105,4 @@ brought up in the election.
 
 Respectfully,
 
-SIGNATORIES HERE
+Ian Kelling (OSI member & voter in individual board elections)
