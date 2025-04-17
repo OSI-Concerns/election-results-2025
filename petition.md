@@ -1,0 +1,108 @@
+# Petition to the Open Source Initiative: Publish the Full 2025 Election Results
+
+**We, the undersigned, petition the Open Source Initiative
+(OSI) to release the complete, unaltered results of its 2025 Board of
+Directors elections**. We believe that by removing candidates and votes
+*after* voting concluded, OSI has damaged its credibility.
+We call for transparency as a first step toward repairing
+OSI's integrity and reputation.
+
+## Background context
+
+OSI relies entirely on community deference and respect
+for its authority in promoting Open Source and the
+consistent use of the term "Open Source."
+
+- In 2012, OSI shifted toward operating as a member-driven organization.
+- Every year since 2013, OSI has held elections where Individual and Affiliate members
+  vote on directors to represent them.
+- Although OSI is not legally bound to accept the results,
+  the elections have been a key part of community and membership engagement,
+  and OSI has always worked to follow best practices for public elections.
+- Until 2025, OSI has published the full results of elections.
+
+## 2025 election
+
+**In 2025, OSI excluded all votes for three candidates before publishing results.**
+The announcement of the
+[altered voting results](https://opensource.org/blog/announcing-the-new-directors-of-osi-board)
+did not name the removed candidates, but they were Bentley Hensel,
+Bradley Kuhn, and Richard Fontana (incidentally, a former OSI director).
+
+Notably, Kuhn and Fontana campaigned on a joint
+[OSI Reform platform](https://codeberg.org/OSI-Reform-Platform/platform#readme)
+which included four proposals, the most significant being a call to repeal
+the newly-adopted Open Source AI Definition (OSAID).
+They also advocated for revising the
+[OSI Board Member Agreement](https://opensource.org/board/board-member-agreement),
+because they interpreted the clause requiring members to "support publicly all Board
+decisions" as being overly expansive and stifling. They proposed clarifying or
+limiting the clause to achieve a better balance.
+
+Normally, as in prior years, as with other organizations, and as stated during
+candidate orientation, signing of the Board Agreement would happen only
+with the election winners as part of getting seated as new directors.
+Kuhn and Fontana say that they brought up their concerns about the Agreement
+during candidate orientation and came away with the understanding that they
+would be able to discuss how to resolve the issue later if they won the election.
+
+Then, **about one hour after voting ended, OSI emailed a *new* requirement
+to the 11 non-incumbent candidates. They gave a 47-hour deadline for all to
+sign the board member agreement or be disqualified.**
+
+Hensel missed the deadline simply by not checking his email soon enough.
+Having no chance to otherwise resolve or discuss their agreement
+concerns, Fontana and Kuhn returned signed board member agreements that included
+their proposed changes. OSI then published the announcement which
+excluded all votes for the three candidates.
+
+
+## Ramifications
+
+In general, changing election rules mid-process and altering vote counts
+undermines the integrity of any election.
+Results must be published transparently — regardless of whether a
+candidate withdraws, dies, or is disqualified for any reason. Once a
+candidate appears on the ballot, the only way to respect voters is to
+count and report the votes as cast. Presenting altered voting results
+*misrepresents* and disrespects the electorate.
+
+Regardless of particular concerns about the Board Agreement, for the
+current OSI Board to remove critical candidates while hiding
+the voting results presents a clear conflict of interest and invites
+community speculation about motives and corruption. As
+[*LWN* OSI election coverage](https://lwn.net/SubscriberLink/1014603/ac0cfc0a74755501/)
+noted, "a cynical person might conclude that the last-minute
+requirement to sign the agreement was to disqualify one or both because
+they would have won otherwise; and that the OSI leadership was unwilling
+to have even a minority number of board members who might seek to steer
+the ship in a different direction."
+
+## Call for resolution
+
+We are community members who care deeply about OSI’s mission.
+We want to see OSI governed with integrity and transparency.
+This petition does not endorse particular candidates or policy positions.
+We believe that everyone should care about transparency regardless of
+whether we are supportive, critical, or neutral on the policy concerns
+brought up in the election.
+
+**To restore credibility and integrity, we call on OSI to:**
+
+- Publish the full, unaltered election results.
+- Credibly recommit to working with the community on all steps necessary to repair lost trust.
+
+## Petition Details
+
+**The petition is open. Signatures are welcome.**
+
+- **How to sign**: Submit your signature via a merge request on [Codeberg](https://codeberg.org/OSI-Concerns/election-results-2025)
+- **When signing, please**:
+  - Indicate your relationship to OSI if applicable (Member, Former Director, etc.)
+- **For OSI affiliates**:
+  - Affiliate Representatives should sign on behalf of their organization.
+  - Employees/volunteers may also sign separately in their individual capacity.
+
+Respectfully,
+
+SIGNATORIES HERE
