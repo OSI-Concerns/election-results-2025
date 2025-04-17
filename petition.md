@@ -37,7 +37,7 @@ Bradley Kuhn, and Richard Fontana (incidentally, a former OSI director).
 
 Notably, Kuhn and Fontana campaigned on a joint
 [OSI Reform platform](https://codeberg.org/OSI-Reform-Platform/platform#readme)
-which included four proposals, the most significant being a call to repeal the
+which included four proposals, the most significant being a call to repeal
 the newly-adopted Open Source AI Definition (OSAID).
 They also advocated for revising the
 [OSI Board Member Agreement](https://opensource.org/board/board-member-agreement),
@@ -57,8 +57,8 @@ to the 11 non-incumbent candidates. They gave a 47-hour deadline for all to
 sign the board member agreement or be disqualified.**
 
 Hensel missed the deadline simply by not checking his email soon enough.
-Having no chance to otherwise resolve or discuss their Agreement
-concerns, Fontana and Kuhn returned signed agreements that included
+Having no chance to otherwise resolve or discuss their agreement
+concerns, Fontana and Kuhn returned signed board member agreements that included
 their proposed changes. OSI then published the announcement which
 excluded all votes for the three candidates.
 
@@ -106,8 +106,8 @@ concerns brought up in the election.
 - **When signing, please**:
   - Indicate your relationship to OSI if applicable (Member, Former Director, etc.)
 - **For OSI affiliates**:
-  - Affiliate Representatives should sign on behalf of their organization
-  - Employees/volunteers may also sign separately in their individual capacity
+  - Affiliate Representatives should sign on behalf of their organization.
+  - Employees/volunteers may also sign separately in their individual capacity.
 
 Respectfully,
 
