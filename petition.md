@@ -31,7 +31,7 @@ consistent use of the term "Open Source."
 
 **In 2025, OSI excluded all votes for three candidates before publishing results.**
 The announcement of the 
-[altered voting results]((https://opensource.org/blog/announcing-the-new-directors-of-osi-board))
+[altered voting results](https://opensource.org/blog/announcing-the-new-directors-of-osi-board)
 did not name the removed candidates, but they were Bentley Hensel,
 Bradley Kuhn, and Richard Fontana (incidentally, a former OSI director).
 
@@ -54,13 +54,14 @@ would be able to discuss how to resolve the issue later if they won the election
 
 Then, **about one hour after voting ended, OSI emailed a *new* requirement
 to the 11 non-incumbent candidates. They gave a 47-hour deadline for all to
-sign the Board Agreement or be disqualified.**
+sign the board member agreement or be disqualified.**
 
 Hensel missed the deadline simply by not checking his email soon enough.
-Having no chance to otherwise resolve or discuss their Agreement concerns,
-Fontana and Kuhn returned signed agreements that included their proposed changes.
-OSI then removed them all as "ineligible" and published only an altered
-vote tally after manually removing all votes for the three eliminated candidates.
+Having no chance to otherwise resolve or discuss their Agreement
+concerns, Fontana and Kuhn returned signed agreements that included
+their proposed changes. OSI then published the announcement which
+excluded all votes for the three candidates.
+
 
 ## Ramifications
 
