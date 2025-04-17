@@ -106,3 +106,4 @@ brought up in the election.
 Respectfully,
 
 Ian Kelling (OSI member & voter in individual board elections)
+Luke W Faraone (OSI Member & Capriciously Denied Nominee for 2025 OSI Elections)
