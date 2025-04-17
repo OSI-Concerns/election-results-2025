@@ -106,3 +106,4 @@ brought up in the election.
 Respectfully,
 
 Ian Kelling (OSI member & voter in individual board elections)
+David Turner (OSI member & voter in individual board elections)
