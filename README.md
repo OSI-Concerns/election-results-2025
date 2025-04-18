@@ -92,21 +92,24 @@ brought up in the election.
 - Publish the full, unaltered election results.
 - Credibly recommit to working with the community on all steps necessary to repair lost trust.
 
-## Petition Details
+## Sign the Petition
 
-**The petition is open. Signatures are welcome.**
+**Your signature is welcome. Signing is easy:**
 
-- **How to sign**:
-  - **Submit a pull request** to the [Codeberg repository](https://codeberg.org/OSI-Concerns/election-results-2025) adding your signature.
-  - *Alternatively*, **email** ```sign@osi-petition.org``` with your signature.
-    - Note: Your email address will be included in the git commit unless you specify otherwise.
-  - *Alternatively*, **submit a pull request** to the [GitHub mirror](https://github.com/OSI-Concerns/election-results-2025) adding your signature.
+- **Submit a pull request** to the [Codeberg repository](https://codeberg.org/OSI-Concerns/election-results-2025) adding your signature.
+- *Alternatively*, **email** ```sign@osi-petition.org``` with your signature.
+  - Note: Your email address will be included in the git commit unless you specify otherwise.
+- *Alternatively*, **submit a pull request** to the [GitHub mirror](https://github.com/OSI-Concerns/election-results-2025) adding your signature.
 
-- **When signing, please**:
-  - Indicate your relationship to OSI if applicable (Member, Former Director, etc.)
-- **For OSI affiliates**:
-  - Affiliate Representatives should sign on behalf of their organization.
-  - Employees/volunteers may also sign separately in their individual capacity.
+**When you sign**, please indicate your relationship to OSI (Member,
+    Former Director, etc.) if you have one.
+
+**For OSI affiliates**:
+
+- Affiliate Representatives should sign on behalf of their organization.
+- Employees/volunteers may also sign separately in their individual capacity.
+
+## Signatures
 
 Respectfully,
 
