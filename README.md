@@ -111,3 +111,5 @@ Respectfully,
 * Corwin Brust (OSI member)
 * Eric Schultz (OSI member)
 * Anush Veeranala
+* Richard Littauer (Former OSI employee, former OSI member)
+* GNOME Foundation (OSI Affiliate)
