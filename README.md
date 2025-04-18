@@ -124,3 +124,4 @@ Respectfully,
 * Michael Downey (former OSI member)
 * Davis Remmel
 * Kevin P. Fleming (OSI member & voter in individual board elections)
+* Hana Burtin
