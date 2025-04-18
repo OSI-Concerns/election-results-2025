@@ -113,3 +113,4 @@ Respectfully,
 * Anush Veeranala
 * Richard Littauer (Former OSI employee, former OSI member)
 * GNOME Foundation (OSI Affiliate)
+* Michael Downey (former OSI member)
