@@ -129,3 +129,4 @@ Respectfully,
 * Aaron Wolf, on behalf of Snowdrift.coop (OSI Affiliate and former OSI fiscally-sponsored incubator project)
 * Boud Roukema (cosmologist)
 * Justin O'Brien
+* Bo Morgan
