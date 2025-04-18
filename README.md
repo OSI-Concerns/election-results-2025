@@ -118,6 +118,7 @@ Respectfully,
 * Luke W Faraone (OSI Member & [Capriciously Denied Nominee](https://lwn.net/Articles/1014603/#:~:text=Faraone%20submitted%20their%20self%2Dnomination%20%22around%209pm%22%20US%20Pacific%20Time%20on%20February%C2%A017.%20Their%20candidacy%20was%20rejected%2C%20though%2C%20due%20to%20missing%20a%20poorly%2Dadvertised%20deadline%20of%2011%3A59%20p.m.%20UTC%20on%20that%20day.&text=If%20we%20had%20known%20there%20were%20two%20Affiliate%20seats%20and%20just%20one%20Member%20seat) for 2025 OSI Elections)
 * Corwin Brust (OSI member)
 * Eric Schultz (OSI member)
+* Bradley M. Kuhn (Candidate for OSI 2025 Board Elections & OSI license-review volunteer since 2010)
 * Anush Veeranala
 * Richard Littauer (Former OSI employee, former OSI member)
 * GNOME Foundation (OSI Affiliate)
