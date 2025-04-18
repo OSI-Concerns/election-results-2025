@@ -127,3 +127,4 @@ Respectfully,
 * Kevin P. Fleming (OSI member & voter in individual board elections)
 * Hana Burtin
 * Aaron Wolf, on behalf of Snowdrift.coop (OSI Affiliate and former OSI fiscally-sponsored incubator project)
+* Boud Roukema (cosmologist)
