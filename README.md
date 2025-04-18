@@ -122,3 +122,4 @@ Respectfully,
 * GNOME Foundation (OSI Affiliate)
 * Michael Downey (former OSI member)
 * Davis Remmel
+* Kevin P. Fleming (OSI member & voter in individual board elections)
