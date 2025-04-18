@@ -97,13 +97,11 @@ brought up in the election.
 **The petition is open. Signatures are welcome.**
 
 - **How to sign**:
-  - Submit a pull request to the
-     [Codeberg
-     repository](https://codeberg.org/OSI-Concerns/election-results-2025)
-     which adds your signature.
-  - Alternate method: Submit a pull request to the [github mirror](https://github.com/OSI-Concerns/election-results-2025)
-    which adds your signature.
-  - Coming soon: alternate email based method by April 19th.
+  - **Submit a pull request** to the [Codeberg repository](https://codeberg.org/OSI-Concerns/election-results-2025) adding your signature.
+  - *Alternatively*, **email** ```sign@osi-petition.org``` with your signature.
+    - Note: Your email address will be included in the git commit unless you specify otherwise.
+  - *Alternatively*, **submit a pull request** to the [GitHub mirror](https://github.com/OSI-Concerns/election-results-2025) adding your signature.
+
 - **When signing, please**:
   - Indicate your relationship to OSI if applicable (Member, Former Director, etc.)
 - **For OSI affiliates**:
