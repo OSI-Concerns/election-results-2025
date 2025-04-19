@@ -134,3 +134,4 @@ Respectfully,
 * Jérôme Carretero
 * Andreas Tille (Debian Project Leader)
 * Sandra Snan (artist)
+* [Alex Hoyau](https://lexoyo.me)
