@@ -139,3 +139,4 @@ Respectfully,
 * Arnold Schrijver (Social coding commons, SocialHub, Humane Tech Community)
 * Oliver Geer
 * Bob Murphy
+* Dan Yeaw
