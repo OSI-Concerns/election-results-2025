@@ -136,3 +136,4 @@ Respectfully,
 * Sandra Snan (artist)
 * [Alex Hoyau](https://lexoyo.me)
 * Eric Ireland
+* Arnold Schrijver (Social coding commons, SocialHub, Humane Tech Community)
