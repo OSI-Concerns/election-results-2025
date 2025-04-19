@@ -135,3 +135,4 @@ Respectfully,
 * Andreas Tille (Debian Project Leader)
 * Sandra Snan (artist)
 * [Alex Hoyau](https://lexoyo.me)
+* Eric Ireland
