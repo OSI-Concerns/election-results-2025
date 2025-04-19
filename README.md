@@ -141,3 +141,4 @@ Respectfully,
 * Bob Murphy
 * Dan Yeaw
 * Matěj Cepl (employee of SUSE Linux Czech, but speaking in my personal person only)
+* Jack Grimsdell
