@@ -131,4 +131,5 @@ Respectfully,
 * Justin O'Brien
 * Bo Morgan
 * Richard Fontana (OSI member, OSI board director 2013-2019, and candidate for 2025 OSI board elections)
+* Jérôme Carretero
 
