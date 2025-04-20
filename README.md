@@ -155,3 +155,4 @@ Respectfully,
 * Bryan Lunduke (The Lunduke Journal)
 * Andrej Shadura
 * Christopher Trumbour
+* [Aleksandr Smyshliaev](https://github.com/asmyshlyaev177)
