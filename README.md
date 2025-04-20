@@ -154,3 +154,4 @@ Respectfully,
 * Sean Whitton (Debian Developer)
 * Bryan Lunduke (The Lunduke Journal)
 * Andrej Shadura
+* Christopher Trumbour
