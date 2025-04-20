@@ -161,3 +161,4 @@ Respectfully,
 * Jacob Weisz
 * Stéphane Graber
 * Jonathan Carter (Debian Developer, former Debian Project Leader)
+* Stefano Rivera (Debian Developer)
