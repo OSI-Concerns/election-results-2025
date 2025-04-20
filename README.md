@@ -146,3 +146,4 @@ Respectfully,
 * Greg Farough
 * Denbeigh Stevens
 * Neal Gompa (OSI member; SFC sustainer; FSF associate member; ...)
+* Jason Self
