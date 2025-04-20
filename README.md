@@ -153,3 +153,4 @@ Respectfully,
 * Gergely Nagy
 * Sean Whitton (Debian Developer)
 * Bryan Lunduke (The Lunduke Journal)
+* Andrej Shadura
