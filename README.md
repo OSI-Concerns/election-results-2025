@@ -152,3 +152,4 @@ Respectfully,
 * Ian Jackson (former OSI Board Member, former SPI Board Member, former Debian Project Leader)
 * Gergely Nagy
 * Sean Whitton (Debian Developer)
+* Bryan Lunduke (The Lunduke Journal)
