@@ -145,3 +145,4 @@ Respectfully,
 * Traci Wetzel
 * Greg Farough
 * Denbeigh Stevens
+* Neal Gompa (OSI member; SFC sustainer; FSF associate member; ...)
