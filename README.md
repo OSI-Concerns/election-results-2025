@@ -158,3 +158,4 @@ Respectfully,
 * [Aleksandr Smyshliaev](https://github.com/asmyshlyaev177)
 * Aaron Andersen
 * Esther Payne
+* Jacob Weisz
