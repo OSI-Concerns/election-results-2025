@@ -149,3 +149,4 @@ Respectfully,
 * Jason Self
 * Lars Wirzenius
 * Matthias Urlichs
+* Ian Jackson (former OSI Board Member, former SPI Board Member, former Debian Project Leader)
