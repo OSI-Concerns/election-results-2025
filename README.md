@@ -166,3 +166,4 @@ Respectfully,
 * Danyl Strype
 * Davide Repetto
 * Christine Hall
+* Margarita Manterola (Debian Developer)
