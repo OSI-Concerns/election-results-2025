@@ -173,3 +173,4 @@ Respectfully,
 * [Athena L. Martin](https://www.alm.website/me)
 * [Federico Damián Schonborn](https://codeberg.org/FedericoSchonborn)
 * Erich Schulz
+* Margarita Manterola (Debian Developer)
