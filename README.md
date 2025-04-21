@@ -163,3 +163,4 @@ Respectfully,
 * Jonathan Carter (Debian Developer, former Debian Project Leader)
 * Stefano Rivera (Debian Developer)
 * Kunal Mehta (Debian Developer, former OSI member)
+* Danyl Strype (community developer, Disintermedia.net.nz) 
