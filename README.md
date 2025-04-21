@@ -166,3 +166,4 @@ Respectfully,
 * Danyl Strype
 * Davide Repetto
 * Christine Hall
+* Matthias Geiger (Debian Developer)
