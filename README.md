@@ -174,3 +174,4 @@ Respectfully,
 * [Federico Damián Schonborn](https://codeberg.org/FedericoSchonborn)
 * Erich Schulz
 * Margarita Manterola (Debian Developer)
+* [Kuno Woudt](https://frob.nl)
