@@ -162,3 +162,4 @@ Respectfully,
 * Stéphane Graber
 * Jonathan Carter (Debian Developer, former Debian Project Leader)
 * Stefano Rivera (Debian Developer)
+* Kunal Mehta (Debian Developer, former OSI member)
