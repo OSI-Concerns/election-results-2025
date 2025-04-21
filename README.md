@@ -165,3 +165,4 @@ Respectfully,
 * Kunal Mehta (Debian Developer, former OSI member)
 * Danyl Strype
 * Davide Repetto
+* Christine Hall
