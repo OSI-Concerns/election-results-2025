@@ -167,3 +167,4 @@ Respectfully,
 * Davide Repetto
 * Christine Hall
 * Matthias Geiger (Debian Developer)
+* Michael Jeanson (Debian Developer)
