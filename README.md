@@ -164,3 +164,4 @@ Respectfully,
 * Stefano Rivera (Debian Developer)
 * Kunal Mehta (Debian Developer, former OSI member)
 * Danyl Strype
+* Davide Repetto
