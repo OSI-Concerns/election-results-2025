@@ -185,3 +185,4 @@ Respectfully,
 * Mathieu Cayeux
 * [Christian R. Schulz](https://github.com/cnschu)
 * Curtis Nixon
+* [Christian Lampe](https://github.com/Lampe2020)
