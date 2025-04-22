@@ -197,3 +197,4 @@ Respectfully,
 * [Patrick Orave](https://github.com/linkion)
 * Arthur Araruna
 * Samuel Burgos
+* Valentino Rebagliati
