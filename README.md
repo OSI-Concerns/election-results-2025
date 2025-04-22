@@ -171,3 +171,4 @@ Respectfully,
 * Mark Galassi (astrophysicist at Los Alamos National Laboratory; contributor to FOSS since 1985 - GNU Scientific Library, guile, gnome, dominion, ...)
 * [Petr Sabanov](https://github.com/pasabanov)
 * [Athena L. Martin](https://www.alm.website/me)
+* [Federico Damián Schonborn](https://codeberg.org/FedericoSchonborn)
