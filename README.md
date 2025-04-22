@@ -179,3 +179,4 @@ Respectfully,
 * Alfred M. Szmidt (GNU maintainer)
 * [Ilia Anufriev](https://github.com/ilanufriev)
 * [Olivier Mehani](https://olivier.mehani.name)
+* Allison Randal (former OSI President, former OSI Board Member, OSI member, Debian Developer)
