@@ -184,3 +184,4 @@ Respectfully,
 * Andrej Skenderija
 * Mathieu Cayeux
 * [Christian R. Schulz](https://github.com/cnschu)
+* Curtis Nixon
