@@ -183,3 +183,4 @@ Respectfully,
 * Thorsten Glaser (resigned OSI license-discuss and license-review volunteer)
 * Andrej Skenderija
 * Mathieu Cayeux
+* [Marcus Johansson](https://github.com/UnconnectedBedna)
