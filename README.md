@@ -186,3 +186,4 @@ Respectfully,
 * [Christian R. Schulz](https://github.com/cnschu)
 * Curtis Nixon
 * [Christian Lampe](https://github.com/Lampe2020)
+* [Marcus Johansson](https://github.com/UnconnectedBedna)
