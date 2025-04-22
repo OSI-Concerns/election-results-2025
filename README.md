@@ -176,3 +176,4 @@ Respectfully,
 * Margarita Manterola (Debian Developer)
 * [Kuno Woudt](https://frob.nl)
 * Alfred M. Szmidt (GNU maintainer)
+* [Ilia Anufriev](https://github.com/ilanufriev)
