@@ -188,3 +188,4 @@ Respectfully,
 * [Christian Lampe](https://github.com/Lampe2020)
 * [Marcus Johansson](https://github.com/UnconnectedBedna)
 * Gabriella Bere
+* Mateusz Gajewski
