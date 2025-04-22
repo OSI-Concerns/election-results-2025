@@ -193,3 +193,4 @@ Respectfully,
 * [Mykola Hlushchak](https://github.com/Red007Master)
 * [Lutz Willek](https://codeberg.org/lwillek)
 * [Wiktor Perskawiec](https://github.com/spageektti) ("Basic" OSI Member, FOSS contributor since the age of 13)
+* [Markus Probst](https://gitlab.com/markustieger)
