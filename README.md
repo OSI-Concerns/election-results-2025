@@ -200,3 +200,4 @@ Respectfully,
 * Valentino Rebagliati
 * Thomas Youssef
 * Gyenge Zsombor
+* Norman Plum
