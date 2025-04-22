@@ -175,3 +175,4 @@ Respectfully,
 * Erich Schulz
 * Margarita Manterola (Debian Developer)
 * [Kuno Woudt](https://frob.nl)
+* Alfred M. Szmidt (GNU maintainer)
