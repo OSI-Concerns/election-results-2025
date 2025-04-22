@@ -183,3 +183,4 @@ Respectfully,
 * Thorsten Glaser (resigned OSI license-discuss and license-review volunteer)
 * Andrej Skenderija
 * Mathieu Cayeux
+* [Leon Frommholz](https://github.com/Lion-Craft) (working at T-Systems, signing only on my personal behalf)
