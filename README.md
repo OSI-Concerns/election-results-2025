@@ -196,3 +196,4 @@ Respectfully,
 * [Markus Probst](https://gitlab.com/markustieger)
 * [Patrick Orave](https://github.com/linkion)
 * Arthur Araruna
+* Samuel Burgos
