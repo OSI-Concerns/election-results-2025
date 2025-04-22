@@ -183,4 +183,5 @@ Respectfully,
 * Thorsten Glaser (resigned OSI license-discuss and license-review volunteer)
 * Andrej Skenderija
 * Mathieu Cayeux
+* [Christian R. Schulz](https://github.com/cnschu)
 * [Mykola Hlushchak](https://github.com/Red007Master)
