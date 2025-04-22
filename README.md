@@ -172,3 +172,4 @@ Respectfully,
 * [Petr Sabanov](https://github.com/pasabanov)
 * [Athena L. Martin](https://www.alm.website/me)
 * [Federico Damián Schonborn](https://codeberg.org/FedericoSchonborn)
+* Erich Schulz
