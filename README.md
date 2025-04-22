@@ -180,6 +180,7 @@ Respectfully,
 * [Ilia Anufriev](https://github.com/ilanufriev)
 * [Olivier Mehani](https://olivier.mehani.name)
 * Allison Randal (former OSI President, former OSI Board Member, OSI member, Debian Developer)
+* Branimir Gacesa
 * Thorsten Glaser (resigned OSI license-discuss and license-review volunteer)
 * Andrej Skenderija
 * Mathieu Cayeux
