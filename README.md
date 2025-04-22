@@ -178,3 +178,4 @@ Respectfully,
 * [Kuno Woudt](https://frob.nl)
 * Alfred M. Szmidt (GNU maintainer)
 * [Ilia Anufriev](https://github.com/ilanufriev)
+* [Olivier Mehani](https://olivier.mehani.name)
