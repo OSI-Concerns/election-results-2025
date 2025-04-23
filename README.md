@@ -228,3 +228,4 @@ Respectfully,
 * [Yuri Ferrier](https://yuri.so)
 * [Péntek Sándor](https://sandros.hu)
 * [Ayberk Ata Han](https://github.com/Pwissh)
+* Lukáš Jiřiště
