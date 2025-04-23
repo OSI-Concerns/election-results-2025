@@ -224,3 +224,4 @@ Respectfully,
 * Bert Van de Poel
 * Ignacio (Iñaki) Arenaza
 * [Nikita Kniazev](https://github.com/Kojoley)
+* [Gianmarco Gargiulo](https://gianmarco.gg)
