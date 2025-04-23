@@ -219,4 +219,4 @@ Respectfully,
 * Elizabeth Doughty
 * [Cristina Rosangel Ibañez](https://codeberg.org/crinelam)
 * Andy Prough
-* Radek Goláň
+* [Radek Goláň](https://dev.shielddagger.com/shield)
