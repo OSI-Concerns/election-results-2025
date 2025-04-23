@@ -195,6 +195,7 @@ Respectfully,
 * [Wiktor Perskawiec](https://github.com/spageektti) ("Basic" OSI Member, FOSS contributor since the age of 13)
 * [Markus Probst](https://gitlab.com/markustieger)
 * [Patrick Orave](https://github.com/linkion)
+* [Cynthia "KosmX"](https://kosmx.dev)
 * Arthur Araruna
 * Samuel Burgos
 * Valentino Rebagliati
