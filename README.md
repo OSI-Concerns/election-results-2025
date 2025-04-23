@@ -203,6 +203,7 @@ Respectfully,
 * Gyenge Zsombor
 * Norman Plum
 * Alaric Hyland
+* [Phani Rithvij](https://github.com/phanirithvij)
 * [Trenten Miller](https://github.com/inyourface34456)
 * [Saad Abdullah "ingenarel"](https://github.com/ingenarel)
 * Lambda Gtz [https://github.com/pedernal]
