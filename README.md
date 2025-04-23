@@ -218,3 +218,4 @@ Respectfully,
 * [Jurgen Gaeremyn](https://codeberg.org/JurgenG) ([Digital Freedom Foundation](https://digitalfreedoms.org), board member)
 * Elizabeth Doughty
 * [Cristina Rosangel Ibañez](https://codeberg.org/crinelam)
+* Andy Prough
