@@ -233,3 +233,4 @@ Respectfully,
 * Dmitry Kucherenko
 * Eric M. Klein (https://github.com/zaxusemk)
 * Bruno Haible (GNU hacker)
+* Joseph Michael
