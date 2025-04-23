@@ -214,3 +214,4 @@ Respectfully,
 * Nicolas Schodet
 * Sean Wicht
 * Reza Fathzadeh
+* Sven Neuhaus (ZenDiS tech lead open source products, in private capacity)
