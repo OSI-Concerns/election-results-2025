@@ -213,3 +213,4 @@ Respectfully,
 * Loïc Cerf
 * Nicolas Schodet
 * Sean Wicht
+* Bruno Haible (GNU hacker)
