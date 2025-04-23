@@ -231,3 +231,4 @@ Respectfully,
 * Lukáš Jiřiště
 * William Regulus
 * Dmitry Kucherenko
+* Eric M. Klein (https://github.com/zaxusemk)
