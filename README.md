@@ -209,3 +209,4 @@ Respectfully,
 * [Zackary Newman](https://github.com/Zman350x)
 * Eyvind Ravnå
 * Loïc Cerf
+* Nicolas Schodet
