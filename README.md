@@ -220,3 +220,4 @@ Respectfully,
 * [Cristina Rosangel Ibañez](https://codeberg.org/crinelam)
 * Andy Prough
 * [Radek Goláň](https://dev.shielddagger.com/shield)
+* [Adrien 'neox' Bourmault](https://forge.a-lec.org/neox)
