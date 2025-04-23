@@ -223,3 +223,4 @@ Respectfully,
 * [Adrien 'neox' Bourmault](https://forge.a-lec.org/neox)
 * Bert Van de Poel
 * Ignacio (Iñaki) Arenaza
+* [Nikita Kniazev](https://github.com/Kojoley)
