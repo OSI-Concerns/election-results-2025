@@ -213,3 +213,4 @@ Respectfully,
 * Loïc Cerf
 * Nicolas Schodet
 * Sean Wicht
+* Eric M. Klein (https://github.com/zaxusemk)
