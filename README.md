@@ -232,3 +232,4 @@ Respectfully,
 * William Regulus
 * Dmitry Kucherenko
 * Eric M. Klein (https://github.com/zaxusemk)
+* Bruno Haible (GNU hacker)
