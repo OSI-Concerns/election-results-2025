@@ -212,3 +212,4 @@ Respectfully,
 * Eyvind Ravnå
 * Loïc Cerf
 * Nicolas Schodet
+* Sean Wicht
