@@ -213,3 +213,6 @@ Respectfully,
 * Loïc Cerf
 * Nicolas Schodet
 * Sean Wicht
+* William Regulus
+ 
+
