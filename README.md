@@ -230,3 +230,4 @@ Respectfully,
 * [Ayberk Ata Han](https://github.com/Pwissh)
 * Lukáš Jiřiště
 * William Regulus
+* Dmitry Kucherenko
