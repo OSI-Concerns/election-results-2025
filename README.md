@@ -213,3 +213,4 @@ Respectfully,
 * Loïc Cerf
 * Nicolas Schodet
 * Sean Wicht
+* [Péntek Sándor](https://sandros.hu)
