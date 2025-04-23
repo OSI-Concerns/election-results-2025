@@ -217,3 +217,4 @@ Respectfully,
 * [Sven Neuhaus](https://codeberg.org/neuhaus) (ZenDiS tech lead open source products, in private capacity)
 * [Jurgen Gaeremyn](https://codeberg.org/JurgenG) ([Digital Freedom Foundation](https://digitalfreedoms.org), board member)
 * Elizabeth Doughty
+* [Cristina Rosangel Ibañez](https://codeberg.org/crinelam)
