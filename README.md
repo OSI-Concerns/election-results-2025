@@ -229,3 +229,4 @@ Respectfully,
 * [Péntek Sándor](https://sandros.hu)
 * [Ayberk Ata Han](https://github.com/Pwissh)
 * Lukáš Jiřiště
+* William Regulus
