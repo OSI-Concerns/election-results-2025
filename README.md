@@ -226,3 +226,4 @@ Respectfully,
 * [Nikita Kniazev](https://github.com/Kojoley)
 * [Gianmarco Gargiulo](https://gianmarco.gg)
 * [Yuri Ferrier](https://yuri.so)
+* [Péntek Sándor](https://sandros.hu)
