@@ -203,3 +203,4 @@ Respectfully,
 * Gyenge Zsombor
 * Norman Plum
 * Alaric Hyland
+* [Trenten Miller](https://github.com/inyourface34456)
