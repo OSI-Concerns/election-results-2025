@@ -159,6 +159,7 @@ Respectfully,
 * Aaron Andersen
 * Esther Payne
 * Jacob Weisz
+* [Gavin Murambadoro](https://github.com/gmurambadoro)
 * Stéphane Graber
 * Jonathan Carter (Debian Developer, former Debian Project Leader)
 * Stefano Rivera (Debian Developer)
