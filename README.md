@@ -213,3 +213,4 @@ Respectfully,
 * Loïc Cerf
 * Nicolas Schodet
 * Sean Wicht
+* Bill "[homelab-00](https://github.com/homelab-00)"
