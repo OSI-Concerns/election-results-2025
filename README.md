@@ -240,3 +240,4 @@ Respectfully,
 * Edward Dore
 * Logan "[ArkhamCookie](https://arkhamcookie.com)"
 * Logan Gillespie
+* Arto Olli
