@@ -239,3 +239,4 @@ Respectfully,
 * Ben Cotton (OSI member)
 * Edward Dore
 * Logan "[ArkhamCookie](https://arkhamcookie.com)"
+* Logan Gillespie
