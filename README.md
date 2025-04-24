@@ -242,6 +242,7 @@ Respectfully,
 * Logan Gillespie
 * Arto Olli
 * [Jed Brown](https://jedbrown.org)
+* [Tristan Miller](https://logological.org/)
 * Robin Riley (former OSI President, current OSI member)
 * Steven Medley
 * Casey Eaton
