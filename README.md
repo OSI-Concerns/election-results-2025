@@ -219,7 +219,7 @@ Respectfully,
 * [Jurgen Gaeremyn](https://codeberg.org/JurgenG) ([Digital Freedom Foundation](https://digitalfreedoms.org), board member)
 * Elizabeth Doughty
 * [Cristina Rosangel Ibañez](https://codeberg.org/crinelam)
-* Andy Prough
+* [Andy Prough](https://codeberg.org/andyprough)(Certified Fraud Examiner)
 * [Radek Goláň](https://dev.shielddagger.com/shield)
 * [Adrien 'neox' Bourmault](https://forge.a-lec.org/neox)
 * Bert Van de Poel
