@@ -238,3 +238,4 @@ Respectfully,
 * Bill "[homelab-00](https://github.com/homelab-00)"
 * Ben Cotton (OSI member)
 * Edward Dore
+* Logan "[ArkhamCookie](https://arkhamcookie.com)"
