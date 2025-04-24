@@ -241,3 +241,4 @@ Respectfully,
 * Logan "[ArkhamCookie](https://arkhamcookie.com)"
 * Logan Gillespie
 * Arto Olli
+Robin Riley (former OSI President, current OSI member)
