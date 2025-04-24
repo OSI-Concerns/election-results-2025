@@ -241,6 +241,7 @@ Respectfully,
 * Logan "[ArkhamCookie](https://arkhamcookie.com)"
 * Logan Gillespie
 * Arto Olli
+* [Jed Brown](https://jedbrown.org)
 * Robin Riley (former OSI President, current OSI member)
 * Steven Medley
 * Casey Eaton
