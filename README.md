@@ -241,3 +241,4 @@ Respectfully,
 * Logan "[ArkhamCookie](https://arkhamcookie.com)"
 * Logan Gillespie
 * Arto Olli
+* [Eric Gallager](https://en.wikipedia.org/wiki/Eric_Gallager) (New Hampshire State Representative, in personal capacity)
