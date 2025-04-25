@@ -268,3 +268,4 @@ Respectfully,
 * [Eric Gallager](https://en.wikipedia.org/wiki/Eric_Gallager) (New Hampshire State Representative, in personal capacity)
 * Aleksey Tsalolikhin
 * [lucyamonster](https://github.com/lucyamonster/)
+* [Jean-Philippe Paradis](https://www.hexstreamsoft.com/)
