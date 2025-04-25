@@ -259,3 +259,4 @@ Respectfully,
 * Tianon Gravi (Debian Developer, OSS maintainer)
 * Fabio Balli
 * Aníbal Monsalve Salazar (Debian Developer)
+* Mohammad-Reza Nabipoor (GNU maintainer)
