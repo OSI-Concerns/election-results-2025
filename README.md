@@ -250,3 +250,5 @@ Respectfully,
 * Casey Eaton
 * Stephen McGregor
 * Sebastian Crane
+* Open Source Hong Kong (OSI Affiliate)
+* Sammy Fung
