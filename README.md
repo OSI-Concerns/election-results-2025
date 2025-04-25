@@ -261,3 +261,4 @@ Respectfully,
 * Aníbal Monsalve Salazar (Debian Developer)
 * Mohammad-Reza Nabipoor (GNU maintainer)
 * Tobias Quathamer (Debian Developer)
+* Odile Bénassy
