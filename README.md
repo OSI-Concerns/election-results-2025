@@ -244,6 +244,7 @@ Respectfully,
 * [Jed Brown](https://jedbrown.org)
 * [Tristan Miller](https://logological.org/)
 * [Wensheng Xie](https://wxie.codeberg.page/) ([an FSF Associate member](https://www.fsf.org/associate/))
+* [Andrei Ozornin](https://ozorn.in/)
 * Robin Riley (former OSI President, current OSI member)
 * Steven Medley
 * Casey Eaton
