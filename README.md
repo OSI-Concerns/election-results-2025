@@ -243,3 +243,4 @@ Respectfully,
 * Arto Olli
 * Robin Riley (former OSI President, current OSI member)
 * Steven Medley
+* Casey Eaton
