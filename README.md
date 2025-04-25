@@ -245,3 +245,4 @@ Respectfully,
 * Steven Medley
 * Casey Eaton
 * Stephen McGregor
+* [lucyamonster](https://github.com/lucyamonster/)
