@@ -245,3 +245,4 @@ Respectfully,
 * Steven Medley
 * Casey Eaton
 * Stephen McGregor
+* [Jean-Philippe Paradis](https://www.hexstreamsoft.com/)
