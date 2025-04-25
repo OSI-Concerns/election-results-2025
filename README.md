@@ -262,3 +262,4 @@ Respectfully,
 * Mohammad-Reza Nabipoor (GNU maintainer)
 * Tobias Quathamer (Debian Developer)
 * Odile Bénassy
+* Adrian COchrane
