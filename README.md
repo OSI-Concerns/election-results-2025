@@ -265,3 +265,4 @@ Respectfully,
 * Adrian COchrane
 * [Olaf Meeuwissen](https://codeberg.org/paddy-hack) (FSF Associate member](https://www.fsf.org/associate/))
 * [Donna Benjamin](https://kattekrab.net) former [DA](https://drupal.org) Board member, [LUV](https://luv.asn.au) President, [OSIA](https://www.osia.com.au/) Director, lapsed OSI member. 
+* [Eric Gallager](https://en.wikipedia.org/wiki/Eric_Gallager) (New Hampshire State Representative, in personal capacity)
