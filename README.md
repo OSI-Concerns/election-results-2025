@@ -264,3 +264,4 @@ Respectfully,
 * Odile Bénassy
 * Adrian COchrane
 * [Olaf Meeuwissen](https://codeberg.org/paddy-hack) (FSF Associate member](https://www.fsf.org/associate/))
+* [Donna Benjamin](https://kattekrab.net) former [DA](drupal.org) Board member, [LUV](https://luv.asn.au) President, [OSIA](https://www.osia.com.au/) Director, lapsed OSI member. 
