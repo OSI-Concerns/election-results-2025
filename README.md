@@ -244,3 +244,4 @@ Respectfully,
 * Robin Riley (former OSI President, current OSI member)
 * Steven Medley
 * Casey Eaton
+* Stephen McGregor
