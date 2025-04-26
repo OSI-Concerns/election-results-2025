@@ -254,3 +254,4 @@ Respectfully,
 * Sammy Fung
 * [DiffieHellman](middlendian.com)
 * James Addison (OSI-Discuss subscriber, otherwise unaffiliated)
+* Pau Tallada
