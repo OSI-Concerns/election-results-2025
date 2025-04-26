@@ -270,3 +270,4 @@ Respectfully,
 * [lucyamonster](https://github.com/lucyamonster/)
 * [Jean-Philippe Paradis](https://www.hexstreamsoft.com/)
 * Ivan Yakovlev
+* Jakob Haufe (Debian Developer)
