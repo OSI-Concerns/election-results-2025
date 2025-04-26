@@ -263,3 +263,4 @@ Respectfully,
 * Tobias Quathamer (Debian Developer)
 * Odile Bénassy
 * Adrian COchrane
+* [Olaf Meeuwissen](https://codeberg.org/paddy-hack) (FSF Associate member](https://www.fsf.org/associate/))
