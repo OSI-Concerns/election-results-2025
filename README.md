@@ -273,3 +273,4 @@ Respectfully,
 * Jakob Haufe (Debian Developer)
 * [Franck Sinimalé](https://mstdn.fr/@francks)
 * [Ondřej Surý](https://deb.sury.org/)
+* Brian Goff (OSS maintainer)
