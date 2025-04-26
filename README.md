@@ -253,3 +253,4 @@ Respectfully,
 * Open Source Hong Kong (OSI Affiliate)
 * Sammy Fung
 * [DiffieHellman](middlendian.com)
+* James Addison (OSI-Discuss subscriber, otherwise unaffiliated)
