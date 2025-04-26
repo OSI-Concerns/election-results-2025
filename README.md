@@ -167,7 +167,7 @@ Respectfully,
 * Kunal Mehta (Debian Developer, former OSI member)
 * Danyl Strype
 * Davide Repetto
-* Christine Hall
+* Christine Hall (FOSS Force writer, editor, publisher. Former OSI Board Member)
 * [Karl Fogel](https://www.red-bean.com/kfogel) (former OSI Board Member)
 * Matthias Geiger (Debian Developer)
 * Michael Jeanson (Debian Developer)
