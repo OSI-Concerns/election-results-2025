@@ -252,3 +252,4 @@ Respectfully,
 * Sebastian Crane
 * Open Source Hong Kong (OSI Affiliate)
 * Sammy Fung
+* [DiffieHellman](middlendian.com)
