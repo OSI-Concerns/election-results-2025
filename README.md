@@ -272,3 +272,4 @@ Respectfully,
 * Ivan Yakovlev
 * Jakob Haufe (Debian Developer)
 * [Franck Sinimalé](https://mstdn.fr/@francks)
+* [Ondřej Surý](https://deb.sury.org/)
