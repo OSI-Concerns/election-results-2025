@@ -257,3 +257,4 @@ Respectfully,
 * Pau Tallada
 * [Winston Weinert](https://winny.tech/)
 * Tianon Gravi (Debian Developer, OSS maintainer)
+* Fabio Balli
