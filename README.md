@@ -256,3 +256,4 @@ Respectfully,
 * James Addison (OSI-Discuss subscriber, otherwise unaffiliated)
 * Pau Tallada
 * [Winston Weinert](https://winny.tech/)
+* Tianon Gravi (Debian Developer, OSS maintainer)
