@@ -255,3 +255,4 @@ Respectfully,
 * [DiffieHellman](middlendian.com)
 * James Addison (OSI-Discuss subscriber, otherwise unaffiliated)
 * Pau Tallada
+* [Winston Weinert](https://winny.tech/)
