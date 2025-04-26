@@ -271,3 +271,4 @@ Respectfully,
 * [Jean-Philippe Paradis](https://www.hexstreamsoft.com/)
 * Ivan Yakovlev
 * Jakob Haufe (Debian Developer)
+* [Franck Sinimalé](https://mstdn.fr/@francks)
