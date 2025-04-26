@@ -258,3 +258,4 @@ Respectfully,
 * [Winston Weinert](https://winny.tech/)
 * Tianon Gravi (Debian Developer, OSS maintainer)
 * Fabio Balli
+* Aníbal Monsalve Salazar (Debian Developer)
