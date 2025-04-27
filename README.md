@@ -278,3 +278,4 @@ Respectfully,
 * Kalle Westerman
 * Jérôme Gaulin
 * [Matthew Fennell](fennell.dev)
+* Joan Vilardaga
