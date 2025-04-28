@@ -280,3 +280,4 @@ Respectfully,
 * [Matthew Fennell](fennell.dev)
 * Joan Vilardaga
 * [Andy Balaam](https://artificialworlds.net/) (OSS maintainer)
+* Faidon Liambotis (former OSI Board Director, 2019-2022)
