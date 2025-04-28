@@ -279,3 +279,4 @@ Respectfully,
 * Jérôme Gaulin
 * [Matthew Fennell](fennell.dev)
 * Joan Vilardaga
+* [Andy Balaam](https://artificialworlds.net/) (OSS maintainer)
