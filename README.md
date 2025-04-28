@@ -276,3 +276,4 @@ Respectfully,
 * Brian Goff (OSS maintainer)
 * Josh Triplett
 * Kalle Westerman
+* Jérôme Gaulin
