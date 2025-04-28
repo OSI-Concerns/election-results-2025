@@ -284,3 +284,4 @@ Respectfully,
 * Aaron Ucko (Debian Developer)
 * Hong Phuc Dang ([FOSSASIA](https://fossasia.org), former OSI Board Member)
 * Guillem Jover (Debian Developer)
+* [Harald Welte](https://laforge.gnumonks.org/) (OSI member & voter in individual board elections)
