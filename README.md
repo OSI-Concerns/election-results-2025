@@ -286,3 +286,4 @@ Respectfully,
 * Guillem Jover (Debian Developer)
 * [Harald Welte](https://laforge.gnumonks.org/) (OSI member & voter in individual board elections)
 * Brett Sheffield (former OSI member, founder Librecast Project)
+* Mihai Capotă
