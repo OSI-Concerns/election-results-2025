@@ -275,3 +275,4 @@ Respectfully,
 * [Ondřej Surý](https://deb.sury.org/)
 * Brian Goff (OSS maintainer)
 * Josh Triplett
+* Kalle Westerman
