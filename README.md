@@ -269,3 +269,4 @@ Respectfully,
 * Aleksey Tsalolikhin
 * [lucyamonster](https://github.com/lucyamonster/)
 * [Jean-Philippe Paradis](https://www.hexstreamsoft.com/)
+* Hong Phuc Dang ([FOSSASIA](https://fossasia.org), former OSI Board Member)
