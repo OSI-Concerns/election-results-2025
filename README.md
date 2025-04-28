@@ -277,3 +277,4 @@ Respectfully,
 * Josh Triplett
 * Kalle Westerman
 * Jérôme Gaulin
+* [Matthew Fennell](fennell.dev)
