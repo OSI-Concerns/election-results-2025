@@ -288,3 +288,4 @@ Respectfully,
 * Brett Sheffield (former OSI member, founder Librecast Project)
 * Mihai Capotă
 * Jozsef Kadlecsik
+* Gunnar Wolf (Debian Developer)
