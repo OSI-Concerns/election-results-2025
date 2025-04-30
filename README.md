@@ -301,3 +301,4 @@ Respectfully,
 * Michael Dexter
 * Pietro Della Mea
 * Charles Plessy (Debian Developer)
+* [Geoffrey Thomas](https://ldpreload.com) (former OSI member)
