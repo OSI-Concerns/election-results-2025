@@ -292,3 +292,4 @@ Respectfully,
 * Rachel E. S. Loesche (former OSI member, FLOSS community member)
 * Ben Perkins
 * Denis 'GNUtoo' Carikli (user and contributor of both free software and open source projects, free software maintainer, FSF associate member, see commit message for more details)
+* [Marcos Marado](https://tilde.pt/~marado) ([Digital Freedom Foundation](https://digitalfreedoms.org), board member)
