@@ -295,3 +295,4 @@ Respectfully,
 * Dominik George (personallyly; Debian Developer, founder of OSI affiliate Teckids)
 * Teckids e.V. (OSI affiliate)
 * Martin Michlmayr (former OSI Board Director)
+* Serkan Holat (OSI member)
