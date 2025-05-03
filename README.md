@@ -296,3 +296,4 @@ Respectfully,
 * Teckids e.V. (OSI affiliate)
 * Martin Michlmayr (former OSI Board Director)
 * Serkan Holat (OSI member)
+* Miroslav Mazel
