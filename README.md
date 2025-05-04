@@ -292,7 +292,7 @@ Respectfully,
 * Rachel E. S. Loesche (former OSI member, FLOSS community member)
 * Ben Perkins
 * Denis 'GNUtoo' Carikli (user and contributor of both free software and open source projects, free software maintainer, FSF associate member, see commit message for more details)
-* Dominik George (personallyly; Debian Developer, founder of OSI affiliate Teckids)
+* Dominik George (personally; Debian Developer, founder of OSI affiliate Teckids)
 * Teckids e.V. (OSI affiliate)
 * Martin Michlmayr (former OSI Board Director)
 * Serkan Holat (OSI member)
