@@ -297,3 +297,4 @@ Respectfully,
 * Martin Michlmayr (former OSI Board Director)
 * Serkan Holat (OSI member)
 * Miroslav Mazel
+* Jordy de Koning
