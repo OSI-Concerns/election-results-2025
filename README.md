@@ -298,3 +298,4 @@ Respectfully,
 * Serkan Holat (OSI member)
 * Miroslav Mazel
 * Jordy de Koning
+* Michael Dexter
