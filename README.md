@@ -300,3 +300,4 @@ Respectfully,
 * Jordy de Koning
 * Michael Dexter
 * Pietro Della Mea
+* Charles Plessy (Debian Developer)
