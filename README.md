@@ -306,3 +306,4 @@ Respectfully,
 * [Bruce Gray](https://github.com/Util) (OSI Affiliate Member Representative, on behalf of [The Perl and Raku Foundation](https://perlandrakufoundation.org/))
 * [Internet Systems Consortium, Inc](https://www.isc.org) (OSI Affiliate Member)
 * Brian C. Arnold (FLOSS Contributor)
+* Kurt Kremitzki (Debian Developer)
