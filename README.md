@@ -304,3 +304,4 @@ Respectfully,
 * [Geoffrey Thomas](https://ldpreload.com) (former OSI member)
 * [Marcos Marado](https://tilde.pt/~marado) ([Digital Freedom Foundation](https://digitalfreedoms.org), board member)
 * [Bruce Gray](https://github.com/Util) (OSI Affiliate Member Representative, on behalf of [The Perl and Raku Foundation](https://perlandrakufoundation.org/))
+* [Internet Systems Consortium, Inc](https://www.isc.org) (OSI Affiliate Member)
