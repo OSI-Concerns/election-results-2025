@@ -307,3 +307,4 @@ Respectfully,
 * [Internet Systems Consortium, Inc](https://www.isc.org) (OSI Affiliate Member)
 * Brian C. Arnold (FLOSS Contributor)
 * Kurt Kremitzki (Debian Developer)
+* Stefano 'steko' Costa (OSGeo member, ArcheoFOSS scientific committee)
