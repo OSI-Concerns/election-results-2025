@@ -303,3 +303,4 @@ Respectfully,
 * Charles Plessy (Debian Developer)
 * [Geoffrey Thomas](https://ldpreload.com) (former OSI member)
 * [Marcos Marado](https://tilde.pt/~marado) ([Digital Freedom Foundation](https://digitalfreedoms.org), board member)
+* Brian C. Arnold (FLOSS Contributor)
