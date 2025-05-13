@@ -308,3 +308,4 @@ Respectfully,
 * Brian C. Arnold (FLOSS Contributor)
 * Kurt Kremitzki (Debian Developer)
 * Stefano 'steko' Costa (OSGeo member, ArcheoFOSS scientific committee)
+* Nathan Willis
