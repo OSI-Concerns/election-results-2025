@@ -311,3 +311,4 @@ Respectfully,
 * Nathan Willis
 * [Jacob Willden](https://jacobwillden.codeberg.page/)
 * Konstantin Pastbin (CoMaps contributor)
+* [NoisyCoil](https://nm.debian.org/person/noisycoil/) (Debian Maintainer)
