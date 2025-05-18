@@ -310,3 +310,4 @@ Respectfully,
 * Stefano 'steko' Costa (OSGeo member, ArcheoFOSS scientific committee)
 * Nathan Willis
 * [Jacob Willden](https://jacobwillden.codeberg.page/)
+* Konstantin Pastbin (CoMaps contributor)
