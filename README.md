@@ -309,3 +309,4 @@ Respectfully,
 * Kurt Kremitzki (Debian Developer)
 * Stefano 'steko' Costa (OSGeo member, ArcheoFOSS scientific committee)
 * Nathan Willis
+* [NoisyCoil](https://nm.debian.org/person/noisycoil/) (Debian Maintainer)
