@@ -234,7 +234,7 @@ Respectfully,
 * Dmitry Kucherenko
 * Eric M. Klein (https://github.com/zaxusemk)
 * Bruno Haible (GNU hacker)
-* Joseph Michael
+* [Joseph Michael](https://github.com/biscut710)
 * Bill "[homelab-00](https://github.com/homelab-00)"
 * Ben Cotton (OSI member)
 * Edward Dore
